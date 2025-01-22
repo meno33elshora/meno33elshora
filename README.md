@@ -1,7 +1,7 @@
 Hi 👋 My name is Amin Elkotb
 ============================
 
-Software Mobile Developer : Flutter Developer
+Software Enginner  : Flutter Developer
 ---------------------------------------------
 
 * 🌍  I'm based in Hybrid Cairo and Tanta
